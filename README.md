@@ -20,3 +20,5 @@
 - 음악 업로드 기능 개발
 - css 활용 화면 구현
 
+# 참고한 사이트
+https://soundcloud.com/
